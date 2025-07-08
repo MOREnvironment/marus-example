@@ -11,7 +11,7 @@ gRPC ROS adapter is implemented in our [ros package](https://github.com/MARUSimu
 
 ## Dependencies
 
-* Unity 2021.3.x LTS
+* Unity 6000.0.X
 
 ### Setup dependencies
 * git & git-lfs
